@@ -1,6 +1,0 @@
-E:/create/Project/yasea_RTMP/library/src/main/cpp/libx264/libs/x86/libx264.a(ratecontrol.o):ratecontrol.c:function x264_ratecontrol_new: error: undefined reference to 'stpcpy'
-E:/create/Project/yasea_RTMP/library/src/main/cpp/libx264/libs/x86/libx264.a(ratecontrol.o):ratecontrol.c:function x264_ratecontrol_new: error: undefined reference to 'stpcpy'
-E:/create/Project/yasea_RTMP/library/src/main/cpp/libx264/libs/x86/libx264.a(ratecontrol.o):ratecontrol.c:function x264_ratecontrol_new: error: undefined reference to 'stpcpy'
-E:/create/Project/yasea_RTMP/library/src/main/cpp/libx264/libs/x86/libx264.a(ratecontrol.o):ratecontrol.c:function x264_ratecontrol_new: error: undefined reference to 'stpcpy'
-clang++: error: linker command failed with exit code 1 (use -v to see invocation)
-make: *** [E:/Users/SeungWon/Android/Sdk/ndk/21.0.6113669/build//../build/core/build-binary.mk:725: E:/create/Project/yasea_RTMP/library/build/intermediates/ndkBuild/debug/obj/local/x86/libenc.so] Error 1

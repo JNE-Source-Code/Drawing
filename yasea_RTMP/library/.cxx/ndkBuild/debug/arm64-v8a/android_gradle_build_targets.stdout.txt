@@ -1,3 +1,0 @@
-Active code page: 65001
-make: Nothing to be done for 'enc'.
-make: Nothing to be done for 'yuv'.
