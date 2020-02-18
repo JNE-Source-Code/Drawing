@@ -1,0 +1,59 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\create\\Project\\yasea_RTMP",
+      "sdkFolder": "E:\\Users\\SeungWon\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\create\\Project\\yasea_RTMP\\library\\build\\intermediates",
+      "gradleModulePathName": ":library",
+      "moduleRootFolder": "E:\\create\\Project\\yasea_RTMP\\library",
+      "makeFile": "E:\\create\\Project\\yasea_RTMP\\library\\src\\main\\cpp\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "E:\\create\\Project\\yasea_RTMP\\.cxx",
+      "cxxFolder": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx",
+      "ndkFolder": "E:\\Users\\SeungWon\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "E:\\create\\Project\\yasea_RTMP\\library\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "E:\\create\\Project\\yasea_RTMP\\library\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug\\armeabi-v7a",
+  "jsonFile": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "E:\\create\\Project\\yasea_RTMP\\library\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a",
+  "buildCommandFile": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\create\\Project\\yasea_RTMP\\library\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\compile_commands.json"
+}
