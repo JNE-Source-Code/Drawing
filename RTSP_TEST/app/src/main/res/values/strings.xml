@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" translatable="false">example3</string>
+    <string name="start" translatable="false">Start/Stop Streaming</string>
+    <string name="flash" translatable="false">Flash</string>
+    <string name="camera" translatable="false">Camera</string>
+    <string name="video" translatable="false">Video Settings</string>
+    <string name="save" translatable="false">OK</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="uri" translatable="false">URI</string>
+    <string name="password_hint" translatable="false">Leave empty if not needed</string>
+    <string name="username_hint" translatable="false">Leave empty if not needed</string>
+    <string name="default_bitrate" translatable="false">0 kbps</string>
+    <string name="default_stream" tools:ignore="ExtraTranslation" translatable="false">rtsp://172.30.1.31:1935/live/test.stream</string>
+    <string name="default_id" tools:ignore="ExtraTranslation" translatable="false">JNE</string>
+    <string name="default_pwd" tools:ignore="ExtraTranslation" translatable="false">jnesystech1</string>
+
+
+</resources>
